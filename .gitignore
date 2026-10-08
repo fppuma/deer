@@ -1,0 +1,30 @@
+# Bytecode compilado por Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Empaquetado
+build/
+dist/
+*.egg-info/
+
+# Tests y cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Herramientas
+.mypy_cache/
+.ruff_cache/
+
+# Variables de entorno (pueden contener secretos)
+.env
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+.DS_Store
